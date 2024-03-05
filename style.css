@@ -11,7 +11,7 @@ h1 {
 
 p {
     color: blue; /* cor do texto*/
-    font-size: 30px; /* tamanho do texto*/
+    font-size: 35px; /* tamanho do texto*/
     font-weight: lighter;
     font-family: 'roboto'; /* fonte do texto*/
     font-style: italic; 
